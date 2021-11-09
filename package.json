@@ -1,0 +1,23 @@
+{
+  "name": "Testimonials-grid-section",
+  "version": "1.0.0",
+  "description": "Bootstrap 5 practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albavidalm/Testimonials-grid-section.git"
+  },
+  "keywords": [],
+  "author": "Alba V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albavidalm/Testimonials-grid-section/issues"
+  },
+  "homepage": "https://github.com/albavidalm/Testimonials-grid-section#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
