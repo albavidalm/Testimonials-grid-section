@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Stage 🏗
 
-This project is on the making
+This project is ongoing, the mediaqueries have to be fixed.
 
 ### Design to replicate
 
