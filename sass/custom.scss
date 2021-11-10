@@ -1,0 +1,26 @@
+$light: #edf2f8;
+
+$font-family-sans-serif: "Barlow Semi Condensed", sans-serif;
+$font-weight-bold: 600;
+$font-weight-normal: 500;
+
+$warning: hsl(263, 55%, 52%);
+$success: hsl(217, 19%, 35%);
+$dark: hsl(219, 29%, 14%);
+
+$secondary: #343f49;
+
+$border-radius: 0.6rem;
+$border-color: rgba(255, 255, 255, 0.5);
+
+.background-card {
+  background-image: url(../images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position: 85% top;
+}
+
+.d-flex img {
+  width: 2.6rem;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";

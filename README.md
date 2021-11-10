@@ -40,8 +40,8 @@ This project is on the making
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Bootstrap 5
+- Sass
 - Mobile-first workflow
 
 ### What I learned
