@@ -23,4 +23,11 @@ $border-color: rgba(255, 255, 255, 0.5);
   width: 2.6rem;
 }
 
+@media (min-width: 992px) {
+  .container-sm {
+    height: 100vh;
+    width: 100%;
+  }
+}
+
 @import "../node_modules/bootstrap/scss/bootstrap";
